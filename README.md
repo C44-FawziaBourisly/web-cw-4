@@ -8,8 +8,8 @@
 
 1. قم بربط صفحة ال html بصفحة style.css
 2. قم بإدراج خط من خطوط قوقل،
-هذا رابط الخط المطلوب\
-https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap
+   هذا رابط الخط المطلوب\
+   https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap
 3. قم بجعل صورة الكويت تبرمج خلفية الموقع، ستجد الصورة في ملف img
 
 ### المطلوب الثاني (البطاقة)
@@ -33,7 +33,6 @@ https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap
 
 1. قم بجعل القائمة الغير مرتبة بدون نقاط أو bullet points
 2. قم بإضافة ظلال للنص h3 عند المرور عليه
-
 
 آخر موعد لرفع الكود\
 نهاية المحاضرة
